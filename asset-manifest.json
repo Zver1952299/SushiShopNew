@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SushiShopNew/static/css/main.0333a2bc.css",
+    "main.js": "/SushiShopNew/static/js/main.5fb6ba18.js",
+    "static/media/sushiIcon.svg": "/SushiShopNew/static/media/sushiIcon.352d3487aa9f888da77ee94de77dc0d3.svg",
+    "static/media/cart.svg": "/SushiShopNew/static/media/cart.64045ccf72971cbc5a6380f42903e828.svg",
+    "index.html": "/SushiShopNew/index.html",
+    "main.0333a2bc.css.map": "/SushiShopNew/static/css/main.0333a2bc.css.map",
+    "main.5fb6ba18.js.map": "/SushiShopNew/static/js/main.5fb6ba18.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0333a2bc.css",
+    "static/js/main.5fb6ba18.js"
+  ]
+}
