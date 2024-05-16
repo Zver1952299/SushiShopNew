@@ -1,0 +1,78 @@
+@import '../../scss/variables';
+
+.cartBlock {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  max-width: 800px;
+  margin: 0 auto;
+
+  .title {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    padding: 0 30px;
+
+    h4 {
+      font-size: 0.8rem;
+      color: rgba(0, 0, 0, 0.5);
+      cursor: pointer;
+    }
+  }
+
+  .content {
+    width: 100%;
+    margin: 20px 0;
+  }
+
+  .subTitle {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    padding: 0 30px;
+    font-size: 1rem;
+  }
+
+  .footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    margin-top: 20px;
+    padding: 0 50px;
+    font-size: 1rem;
+
+    .button {
+      padding: 5px 10px;
+      font-size: 1rem;
+      background-color: #bbb;
+      text-decoration: none;
+      color: rgb(109, 109, 109);
+      border: 1px solid $brown;
+      border-radius: 10px;
+      cursor: pointer;
+
+      &:hover {
+        color: white;
+        background-color: $lbrown;
+      }
+    }
+
+    button {
+      padding: 5px 10px;
+      font-size: 1rem;
+      background-color: $punch;
+      border-radius: 10px;
+      cursor: pointer;
+
+      &:hover {
+        color: white;
+        background-color: $lbrown;
+      }
+    }
+  }
+}

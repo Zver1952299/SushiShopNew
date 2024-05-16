@@ -1,0 +1,35 @@
+@import '../../scss/variables';
+
+.categories {
+  color: $brown;
+
+  .list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+  }
+
+  .item {
+    padding: 5px 15px;
+    background-color: $champagne;
+    font-size: 1rem;
+    border: 1px solid $punch;
+    border-radius: 10px;
+    cursor: pointer;
+
+    &.active {
+      background-color: $brown;
+      color: $champagne;
+
+      &:hover {
+        background-color: $brown;
+      }
+    }
+
+    &:hover {
+      background-color: $punch;
+      border-color: $champagne;
+    }
+  }
+}

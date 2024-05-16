@@ -1,0 +1,44 @@
+@import '../../scss/variables';
+
+.sort {
+  position: relative;
+  font-size: 1rem;
+
+  .label {
+    span {
+      color: $lbrown;
+      border-bottom: 1px dashed $brown;
+      cursor: pointer;
+    }
+  }
+
+  .popup {
+    position: absolute;
+    top: 33px;
+    right: -17px;
+    font-size: 1rem;
+    background-color: $champagne;
+    box-shadow: 1px 1px 4px $brown;
+    ul {
+      li {
+        color: $lbrown;
+        cursor: pointer;
+        padding: 2px 15px;
+
+        &.active {
+          background-color: $lbrown;
+          color: $champagne;
+
+          &:hover {
+            color: $champagne;
+          }
+        }
+
+        &:hover {
+          color: $brown;
+          background-color: $punch;
+        }
+      }
+    }
+  }
+}

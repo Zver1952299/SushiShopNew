@@ -1,0 +1,123 @@
+[
+  {
+    "id": "0",
+    "imageUrl": "https://enjoysushi70.ru/ruen.datas/menu/photos/okinava.p.jpg?2917445ada25ce23995a5f",
+    "title": "Okinava",
+    "price": 10,
+    "raiting": 5,
+    "category": 1,
+    "size": ["1/2", "1/2"],
+    "composition": "Tempura eel, cream cheese, cucumber, sesame.",
+    "width": 200
+  },
+  {
+    "id": "1",
+    "imageUrl": "https://enjoysushi70.ru/ruen.datas/menu/photos/filadelfiya-klassicheskaya.p.jpg?2917445ada25ce23995a5f",
+    "title": "Fila Classic",
+    "price": 13,
+    "raiting": 8,
+    "category": 1,
+    "size": ["1/2", "1/2"],
+    "composition": "Salmon, cream cheese.",
+    "width": 220
+  },
+  {
+    "id": "2",
+    "imageUrl": "https://enjoysushi70.ru/ruen.datas/menu/photos/lava.p.jpg?2917445ada25ce23995a5f",
+    "title": "Lava",
+    "price": 12,
+    "raiting": 5,
+    "category": 1,
+    "size": ["1/2", "1/2"],
+    "composition": "Salmon, snow crab, cream cheese, lava sauce.",
+    "width": 230
+  },
+  {
+    "id": "3",
+    "imageUrl": "https://enjoysushi70.ru/ruen.datas/menu/photos/gejsha.p.jpg?2917445ada25ce23995a5f",
+    "title": "Geysha",
+    "price": 9,
+    "raiting": 3,
+    "category": 1,
+    "size": ["1/2", "1/2"],
+    "composition": "Salmon, cucumber, melted cheese.",
+    "width": 200
+  },
+  {
+    "id": "4",
+    "imageUrl": "https://enjoysushi70.ru/ruen.datas/menu/photos/kanada.p.jpg?2917445ada25ce23995a5f",
+    "title": "Canada",
+    "price": 10,
+    "raiting": 9,
+    "category": 1,
+    "size": ["1/2", "1/2"],
+    "composition": "Smoked eel, Japanese omelet, cream cheese.",
+    "width": 190
+  },
+  {
+    "id": "5",
+    "imageUrl": "https://enjoysushi70.ru/ruen.datas/menu/photos/kaliforniya.p.jpg?2917445ada25ce23995a5f",
+    "title": "California",
+    "price": 13,
+    "raiting": 9,
+    "category": 1,
+    "size": ["1/2", "1/2"],
+    "composition": "Masago caviar, snow crab, mayonnaise, cucumber.",
+    "width": 210
+  },
+  {
+    "id": "6",
+    "imageUrl": "https://enjoysushi70.ru/ruen.datas/menu/photos/segun.p.jpg?2917445ada25ce23995a5f",
+    "title": "Shogun",
+    "price": 11,
+    "raiting": 4,
+    "category": 1,
+    "size": ["1/2", "1/2"],
+    "composition": "Salmon, Japanese omelet, lava sauce.",
+    "width": 180
+  },
+  {
+    "id": "7",
+    "imageUrl": "https://enjoysushi70.ru/ruen.datas/menu/photos/boston.p.jpg?2917445ada25ce23995a5f",
+    "title": "Boston",
+    "price": 14,
+    "raiting": 6,
+    "category": 1,
+    "size": ["1/2", "1/2"],
+    "composition": "Smoked salmon, green onion, cream cheese.",
+    "width": 230
+  },
+  {
+    "id": "8",
+    "imageUrl": "https://enjoysushi70.ru/ruen.datas/menu/photos/anglijskij-zavtrak.p.jpg?2917445ada25ce23995a5f",
+    "title": "English breakfast",
+    "price": 15,
+    "raiting": 7,
+    "category": 2,
+    "size": ["1/2", "1/2"],
+    "composition": "Cheese tortilla, cream cheese, tomato, cucumber, green onion, lettuce, bacon, inari sauce.",
+    "width": 250
+  },
+  {
+    "id": "9",
+    "imageUrl": "https://enjoysushi70.ru/ruen.datas/menu/photos/vulkan-gril.p.jpg?2917445ada25ce23995a5f",
+    "title": "Volcano Grill",
+    "price": 12,
+    "raiting": 4,
+    "category": 2,
+    "size": ["1/2", "1/2"],
+    "composition": "Cream cheese, tomato, shrimp, spicy sauce, sesame.",
+    "width": 230
+  },
+  {
+    "id": "10",
+    "imageUrl": "https://enjoysushi70.ru/ruen.datas/menu/photos/set-super-pati.p.jpg?2917445ada25ce23995a5f",
+    "title": "Super Party",
+    "price": 100,
+    "raiting": 7,
+    "category": 3,
+    "size": ["1/2", "1/2"],
+    "composition": "80 шт 10 макси роллов: Филадельфия лайт с огурцом XXL 2шт, Эби хот XXL, Чед XXL, Лава 2.0 XXL, Инари 2.0 XXL, Бекон BBQ XXL, ħлий цезарь XXL, Томато уайт XXL, Чубакка XXL.",
+    "width": 1500
+  }
+]

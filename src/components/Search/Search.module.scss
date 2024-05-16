@@ -1,0 +1,51 @@
+@import '../../scss/variables';
+
+.root {
+  position: relative;
+
+  .iconSearch {
+    position: absolute;
+    top: 8px;
+    left: 10px;
+    width: 15px;
+    height: 15px;
+    opacity: 0.5;
+  }
+
+  .iconClose {
+    position: absolute;
+    top: 8px;
+    right: 10px;
+    width: 15px;
+    height: 15px;
+    opacity: 0.5;
+    cursor: pointer;
+
+    &:hover {
+      opacity: 1;
+    }
+  }
+
+  input {
+    width: 100%;
+    max-width: 300px;
+    height: 30px;
+    padding: 0 10px;
+    padding-left: 30px;
+    border: 1px solid $punch;
+    border-radius: 5px;
+    &::placeholder {
+      color: $brown;
+      opacity: 0.5;
+    }
+
+    &:focus {
+      border-color: $lbrown;
+    }
+
+    @media (max-width: 500px) {
+      order: 2;
+      max-width: none;
+    }
+  }
+}

@@ -1,0 +1,38 @@
+@import '../../scss/variables';
+
+.pagination {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 15px;
+  margin-top: 30px;
+
+  :global {
+    .selected {
+      a {
+        background-color: $punch;
+        cursor: default;
+      }
+    }
+
+    .disabled {
+      a {
+        opacity: 0.4;
+        cursor: default;
+      }
+    }
+  }
+
+  li {
+    a {
+      display: block;
+      border: 1px solid $brown;
+      border-radius: 50%;
+      color: $brown;
+      cursor: pointer;
+      background-color: $champagne;
+      width: 28px;
+      height: 27px;
+    }
+  }
+}
